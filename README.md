@@ -26,8 +26,8 @@ Before you start, make sure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-folder
+git clone https://github.com/Rudraksh2003/Docker-Monitoring-Stack-Prometheus-Grafana-Alertmanager-Node-Exporter-.git
+cd Docker-Monitoring-Stack-Prometheus-Grafana-Alertmanager-Node-Exporter-
 ```
 
 ### Step 2: Build and Start Containers
